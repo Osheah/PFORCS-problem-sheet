@@ -9,3 +9,7 @@ The code for this can be found in **bmi.py**
 # Week3 task 2
 *Write a program (bitcoin.py) that prints out todays bitcoin price in dollars*
 The code for this can be found in **bitcoin.py**
+# Week4 task3
+*Write a program(collatz.py) that takes and input and prints out half the input if even and triple the input plus one if odd. The program should halt when output reaches 1*
+The code for this can be found in **collatz.py**
+
