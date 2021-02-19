@@ -14,5 +14,5 @@ The code for this can be found in **bitcoin.py**
 The code for this can be found in **collatz.py**
 # Week5 task1
 *Write a program sqrt.py that takes a positive floating point number input and outputs and approx of its square root via newtons method of square root estimation*
-The code for this can be found in **sqrt.py**
+The code for this can be found in **sqareroot.py**
 

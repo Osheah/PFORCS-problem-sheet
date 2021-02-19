@@ -9,10 +9,11 @@
 
 number = float(input("Please enter a positive number: "))
 iterations = int(input("Please enter the number of iterations: "))
+# this is needed to set the number of iterations- it could be hardcoded or also added in other ways like with a set degree difference in approx/betterApprox values
 
 
 # function to get approximation of square root using newtons method
-def newton(number, iterations): 
+def sqrt(number, iterations): 
   approx = number*0.5 # inital approximation is half the number
   
   for i in range(iterations): # compute approximation to required iterations
@@ -20,6 +21,6 @@ def newton(number, iterations):
     approx = betterApprox # use the new value for next iteration    
   return betterApprox
 
-print("the approximation of the square root of {} is {} using {} iterations".format(number, newton(number, iterations), iterations))
+print("the approximation of the square root of {} is {} using {} iterations".format(number, sqrt(number, iterations), iterations))
 
 
