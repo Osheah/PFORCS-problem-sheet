@@ -12,4 +12,7 @@ The code for this can be found in **bitcoin.py**
 # Week4 task3
 *Write a program(collatz.py) that takes and input and prints out half the input if even and triple the input plus one if odd. The program should halt when output reaches 1*
 The code for this can be found in **collatz.py**
+# Week5 task1
+*Write a program sqrt.py that takes a positive floating point number input and outputs and approx of its square root via newtons method of square root estimation*
+The code for this can be found in **sqrt.py**
 
