@@ -1,0 +1,36 @@
+{
+  "resourses": "product.screen",
+  "parameters": {
+    "idType": "productId",
+    "Id": "WC-SH-A02",
+    "JSESSIONID": "SD0SL6FF7ADFF4953"
+  }
+}{
+  "resourses": "oldlink",
+  "parameters": {
+    "idType": "itemId",
+    "Id": "EST-6",
+    "JSESSIONID": "SD0SL6FF7ADFF4953"
+  }
+}{
+  "resourses": "product.screen",
+  "parameters": {
+    "idType": "productId",
+    "Id": "BS-AG-G09",
+    "JSESSIONID": "SD0SL6FF7ADFF4953"
+  }
+}{
+  "resourses": "category.screen",
+  "parameters": {
+    "idType": "categoryId",
+    "Id": "STRATEGY",
+    "JSESSIONID": "SD0SL6FF7ADFF4953"
+  }
+}{
+  "resourses": "product.screen",
+  "parameters": {
+    "idType": "productId",
+    "Id": "FS-SG-G03",
+    "JSESSIONID": "SD0SL6FF7ADFF4953"
+  }
+}
