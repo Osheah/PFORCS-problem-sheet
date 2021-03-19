@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt # needed for ploting
 
 
 
-x  = np.arange(-20, 20, .1) # create the x axis
+x  = np.arange(0,4, .1) # create the x axis
 fx= x # the line y = x
 gx = x**2 # the curve y = x squared
 hx = x**3 # the curve y = x cubed
@@ -21,4 +21,5 @@ plt.plot(x, fx, label='x') # the line
 plt.plot(x, gx, label='x**2') # the quadratic curve
 plt.plot(x, hx, label='x**3') # the cubic curve
 plt.legend() # show the labels
+plt.savefig('plottask.jpg')
 plt.show() # show the plot
