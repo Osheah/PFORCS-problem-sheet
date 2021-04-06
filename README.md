@@ -39,7 +39,7 @@ The code for this can be found in [collatz.py](https://github.com/Osheah/PFORCS-
 ## Topic 5 Functions
 ###  Task 5
 *Write a program sqrt.py that takes a positive floating point number input and outputs and approx of its square root via newtons method of square root estimation*
-The code for this can be found in [sqareroot.py](https://github.com/Osheah/PFORCS-problem-sheet/blob/main/)
+The code for this can be found in [squareroot.py](https://github.com/Osheah/PFORCS-problem-sheet/blob/main/squareroot.py)
 
 ## Topic 6 Files
 ### Task 6
@@ -62,20 +62,21 @@ The task is to write a program that will extract the URLs from an access.log fil
 The particular log file used is in the directory www1 and is called  access.log. Put this file in a directory outside this repository called '../hospfcs2021/week07/access.log' to run the file. 
 I did think about uploading the file to github but I thought it would be too big considering all the git versions and also the gitignore ignores log files. 
 
-There is also an extra section that will store the URLs as a dictionary object in the list with the resource and parameter names. This can be found in [extra.py]((https://github.com/Osheah/PFORCS-problem-sheet/blob/main/extra.py)
+There is also an extra section that will store the URLs as a dictionary object in the list with the resource and parameter names. This can be found in [extra.py](https://github.com/Osheah/PFORCS-problem-sheet/blob/main/extra.py)
 
 
 ## Topic 8 Plotting
 ### Task 8
 The code for this task can be found in [plotask.py](https://github.com/Osheah/PFORCS-problem-sheet/blob/main/plotask.py). This is a program that displays a plot of the function 
-1. f(x) = x, 
-2. g(x) = x**2, 
+1. f(x) = x 
+2. g(x) = x**2 
 3. h(x) = x**3
+
 in the range [0, 4] on the one set of axes. The ouput of this can be found in [plottask.jpg](https://github.com/Osheah/PFORCS-problem-sheet/blob/main/)
 
 # Topic 9 Pandas
 ## Task 9
-The code for this task can be found in [sessions.py]((https://github.com/Osheah/PFORCS-problem-sheet/blob/main/sessions.py) 
+The code for this task can be found in [sessions.py](https://github.com/Osheah/PFORCS-problem-sheet/blob/main/sessions.py) 
 This is a program that finds which sessionId downloaded the most data. The stages of the code does the following
 1. read the access.log into the dataframe
 2. set the date time to be the index
@@ -88,7 +89,8 @@ extra marks are given for working out the amount of data each sessionId download
 
 # Topic 10 Errors
 ## Task 10
-The code for this task can be found in [errors.py]((https://github.com/Osheah/PFORCS-problem-sheet/blob/main/errors.py). 
+The code for this task can be found in [errors.py](https://github.com/Osheah/PFORCS-problem-sheet/blob/main/errors.py). 
+
 The task was to 
 *Write a bullet proof function called averageTo(aList, toIndex). The function should take in a list and an index and return the average of the numbers up to and including the toIndex in the aList*
 
