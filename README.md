@@ -74,8 +74,8 @@ The code for this task can be found in [plottask.py](https://github.com/Osheah/P
 
 in the range [0, 4] on the one set of axes. The ouput of this can be found in [plottask.jpg](https://github.com/Osheah/PFORCS-problem-sheet/blob/main/plottask.jpg)
 
-# Topic 9 Pandas
-## Task 9
+## Topic 9 Pandas
+### Task 9
 The code for this task can be found in [sessions.py](https://github.com/Osheah/PFORCS-problem-sheet/blob/main/sessions.py) 
 This is a program that finds which sessionId downloaded the most data. The stages of the code does the following
 1. read the access.log into the dataframe
@@ -87,8 +87,8 @@ This is a program that finds which sessionId downloaded the most data. The stage
 extra marks are given for working out the amount of data each sessionId downloaded in any given day. 
 
 
-# Topic 10 Errors
-## Task 10
+## Topic 10 Errors
+### Task 10
 The code for this task can be found in [errors.py](https://github.com/Osheah/PFORCS-problem-sheet/blob/main/errors.py). 
 
 The task was to 
