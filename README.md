@@ -1,5 +1,5 @@
 # PFORCS-problem-sheet
-# problem sheet for GMIT programming for Cybersecurity 2021
+# Problem sheet for GMIT Programming for Cybersecurity 2021
 # Introduction
 This repository contains the weekly problem sheets for GMIT's certificate in Cybersecurity Operations module programming for cybersecurity 2021 taught by Andrew Beatty. 
 
@@ -21,12 +21,12 @@ The gitignore file is the basic python one which ignores .git files, python syst
 3. Commit and push file to repository 
 There was no coding associated with this topic. 
 
-## Topic 2 statements
+## Topic 2 Statements
 ### Task 2
 *Write a program that calculates somebody's Body Mass Index (BMI)*
 The code for this can be found in [bmi.py](https://github.com/Osheah/PFORCS-problem-sheet/blob/main/bmi.py)
 
-## Topic 3 state
+## Topic 3 State
 ### Task 3
 *Write a program (bitcoin.py) that prints out todays bitcoin price in dollars*
 The code for this can be found in [bitcoin.py](https://github.com/Osheah/PFORCS-problem-sheet/blob/main/bitcoin.py)
