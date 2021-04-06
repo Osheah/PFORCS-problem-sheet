@@ -7,6 +7,9 @@
 import re
 fileName = '../hospfcs2021/week07/sampleAccess.log'
 fileName2 = '../hospfcs2021/week07/access.log'
+#fileName2 = 'access.log'
+# to run this file download splunk tutorial data and extract the file and put the file in the same directory as this code and comment out fileName2 and remove the comment from the second fileName2 
+
 regex= r'\s/.+?\s'
 #regexV1 = '/[A-Za-z0-9\.\?=-]+&[A-Za-z0-9]+=[A-Z-0-9&A-Z=]+'
 urlOutput = 'urlOutput.txt'
