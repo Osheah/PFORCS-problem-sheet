@@ -10,9 +10,29 @@ In order to run this code you will need to have python 3 on your system.  Anacon
 
 
 # Repository Structure
-The gitignore file is the basic python one which ignores .git files, python system files and other checkpoints. The standard python [.gitignore](https://github.com/Osheah/PFORCS-problem-sheet/blob/main/.gitignore) files was used in the repository. 
+* .gitignore - standard python git ignore file - see below
+* LICENCE - standard Apache License version 2.0 January 2004 - no reason for picking this one
+* README.md - the readme file that you are reading now. 
+* bitcoin.py - see task 3 below
+* bmi.py - see task 2 below
+* collatz.py - see task 4 below
+* errors.py - see task 10 below
+* es.py - see task 6 below
+* es.txt - see task 6 below
+* extra.py - see task 7 below
+* extract-url.py see task 7 below
+* mobydick.txt see task 6 below
+* plotttask.jpg - see task 8 below
+* plottask.py - see task 8 below
+* sessions.py - see task 9 below
+* squareroot.py - see task 5 below
+* urlOutput.json - see task 7 below
+* urlOutput.txt  - see task 7 below
 
-## Semester 1
+### .gitignore
+This .gitignore file is the basic python one which ignores .git files, python system files and other file types. The standard python [.gitignore](https://github.com/Osheah/PFORCS-problem-sheet/blob/main/.gitignore) files was used in the repository. 
+
+## Semester 1 Tasks
 
 ## Topic 1 Setup of the environment
 ### Task 1 
@@ -60,9 +80,10 @@ The code for this can be found in [extract-url.py](https://github.com/Osheah/PFO
 
 The task is to write a program that will extract the URLs from an access.log file. The access.log file is not uploaded to this directory. So in order to run this file you will need to download the access.log file from the splunk tutorial data  [tutorialdata.zip](https://docs.splunk.com/images/Tutorial/tutorialdata.zip) and extract the files. 
 The particular log file used is in the directory www1 and is called  access.log. Put this file in a directory outside this repository called '../hospfcs2021/week07/access.log' to run the file. 
-I did think about uploading the file to github but I thought it would be too big considering all the git versions and also the gitignore ignores log files. 
+I did think about uploading the file to github but I thought it would be too big considering all the git versions and also the gitignore ignores log files. The output for this code can be found in [urlOutput.txt](https://github.com/Osheah/PFORCS-problem-sheet/blob/main/urlOutput.txt) 
 
 There is also an extra section that will store the URLs as a dictionary object in the list with the resource and parameter names. This can be found in [extra.py](https://github.com/Osheah/PFORCS-problem-sheet/blob/main/extra.py)
+The output for this code can be found in [urlOutput.json](https://github.com/Osheah/PFORCS-problem-sheet/blob/main/urlOutput.json)
 
 
 ## Topic 8 Plotting
