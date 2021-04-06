@@ -58,7 +58,7 @@ The mobydick.txt was taken from [gutenberg.org](https://www.gutenberg.org/files/
 ### Task 7
 The code for this can be found in [extract-url.py](https://github.com/Osheah/PFORCS-problem-sheet/blob/main/extract-url.py)
 
-The task is to write a program that will extract the URLs from an access.log file. The access.log file is not uploaded to this directory. So in order to run this file you will need to download the access.log file from the splunk tutorial data[tutorialdata.zip](https://docs.splunk.com/images/Tutorial/tutorialdata.zip) and extract the files. 
+The task is to write a program that will extract the URLs from an access.log file. The access.log file is not uploaded to this directory. So in order to run this file you will need to download the access.log file from the splunk tutorial data  [tutorialdata.zip](https://docs.splunk.com/images/Tutorial/tutorialdata.zip) and extract the files. 
 The particular log file used is in the directory www1 and is called  access.log. Put this file in a directory outside this repository called '../hospfcs2021/week07/access.log' to run the file. 
 I did think about uploading the file to github but I thought it would be too big considering all the git versions and also the gitignore ignores log files. 
 
@@ -67,12 +67,12 @@ There is also an extra section that will store the URLs as a dictionary object i
 
 ## Topic 8 Plotting
 ### Task 8
-The code for this task can be found in [plotask.py](https://github.com/Osheah/PFORCS-problem-sheet/blob/main/plotask.py). This is a program that displays a plot of the function 
+The code for this task can be found in [plottask.py](https://github.com/Osheah/PFORCS-problem-sheet/blob/main/plottask.py). This is a program that displays a plot of the function 
 1. f(x) = x 
 2. g(x) = x**2 
 3. h(x) = x**3
 
-in the range [0, 4] on the one set of axes. The ouput of this can be found in [plottask.jpg](https://github.com/Osheah/PFORCS-problem-sheet/blob/main/)
+in the range [0, 4] on the one set of axes. The ouput of this can be found in [plottask.jpg](https://github.com/Osheah/PFORCS-problem-sheet/blob/main/plottask.jpg)
 
 # Topic 9 Pandas
 ## Task 9
